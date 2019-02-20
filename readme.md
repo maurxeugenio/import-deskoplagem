@@ -16,7 +16,7 @@ Deskoplagem é uma aplicação em Vue Js que consulta a base de dados do DBDESK 
     crossorigin="anonymous">
 </script>
 
-<script type="text/javascript" src="http://localhost:9000/import-desklopagem.js"></script>
+<script type="text/javascript" src="https://raw.githubusercontent.com/maurxeugenio/import-deskoplagem/master/desklopagem.js"></script>
 
 <script type="text/javascript">
     get_deskoplagem({
